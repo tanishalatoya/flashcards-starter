@@ -13,6 +13,7 @@ Flashcards is a command line based application. When the application starts, the
 From your terminal do the following:
 * `git clone <ssh> or <https>`clone down this repository
 * `cd flashcards` change into the flashcards directory
+* `npm install` to run the applicable dependencies
 * `node index.js` begins the game
 
 * Once you have completed the game, or to exit out of the game at any time use `ctrl + c`
